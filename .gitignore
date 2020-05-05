@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.vs/
+.vscode/
+
+node_modules/
+
+.cache/
+
+public/dist/
